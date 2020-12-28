@@ -15,7 +15,7 @@
   1.<ui>"Maven Clean"</ui>
   2.<ui>"Maven install"</ui>
   3.<ui>"Run As Spring Boot App"</ui>
-  
-  <p> After Running all Spring Boot Application. you can open your browser and type "http://localhost:8761/". You can see all running services over that server. after that just confermation for you application is calling on catelog or not call "http://localhost:8081/catalog/foo". before calling this url make sure you are running all service. </p>
+  <br>
+  <p> After Running all Spring Boot Application. you can open your browser and type <a href="http://localhost:8761/">"http://localhost:8761/"</a>. You can see all running services over that server. after that just confermation for you application is calling on catelog or not call <a href="http://localhost:8081/catalog/foo">"http://localhost:8081/catalog/foo"</a>. before calling this url make sure you are running all service. </p>
 
 
