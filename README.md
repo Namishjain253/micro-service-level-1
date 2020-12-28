@@ -1,4 +1,4 @@
-# <h4>micro-service Level 1 - <h6>"Communication and Discovery-Server"</h6></h4>
+# <h4>micro-service Level 1 - <h2>"Communication and Discovery-Server"</h2></h4>
 # <h4>Step 1 - Discovery-Server</h4>
   1.<ui>"Maven Clean"</ui>
   2.<ui>"Maven install"</ui>
@@ -16,6 +16,6 @@
   2.<ui>"Maven install"</ui>
   3.<ui>"Run As Spring Boot App"</ui>
   <br>
-  <p> After Running all Spring Boot Application. you can open your browser and type <a href="http://localhost:8761/" target="">"http://localhost:8761/"</a>. You can see all running services over that server. after that just confermation for you application is calling on catelog or not call <a href="http://localhost:8081/catalog/foo" target="">"http://localhost:8081/catalog/foo"</a>. before calling this url make sure you are running all service. </p>
+  <p> After Running all Spring Boot Application. you can open your browser and type <a href="http://localhost:8761/" target="_blank">"http://localhost:8761/"</a>. You can see all running services over that server. after that just confermation for you application is calling on catelog or not call <a href="http://localhost:8081/catalog/foo" target="_blank">"http://localhost:8081/catalog/foo"</a>. before calling this url make sure you are running all service. </p>
 
 
